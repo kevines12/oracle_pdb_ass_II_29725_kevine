@@ -1,7 +1,7 @@
 # Oracle Pluggable Database Assignment II (Oracle 21c)
 
 ## Student Information
-- **Name:** Kevine  
+- **Name:** SUGIRA Kevine 
 - **Student ID:** 29725  
 - **Course:** Database Development with PL/SQL (INSY 8311)
 
